@@ -1,0 +1,36 @@
+*{
+	
+	
+}
+
+#uwu {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+	background-color: #06C;
+	margin: 3px;
+	padding: 3px;
+	width: 600px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #3CF;
+	border-right-color: #3CF;
+	border-bottom-color: #3CF;
+	border-left-color: #3CF;
+	position: relative;
+	height: 400px;
+	-webkit-transition: all 5s ease 5s;
+	-moz-transition: all 5s ease 5s;
+	-ms-transition: all 5s ease 5s;
+	-o-transition: all 5s ease 5s;
+	transition: all 5s ease 5s;
+}
+
+body{
+	background-color: #09F;
+	background-image: url(img/background.jpg);
+	background-repeat: no-repeat;
+	
+}
